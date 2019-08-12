@@ -114,3 +114,6 @@ Everything is done! Please go to your Github page! (e.g. https://reidha.github.i
 $ npm -v
 6.10.3
 ```
+
+## References
+* [所要時間3分!? Github PagesとHEXOで爆速ブログ構築してみよう！](https://liginc.co.jp/web/programming/server/104594)

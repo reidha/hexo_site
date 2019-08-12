@@ -53,3 +53,6 @@ feed:
 Now you can check *atom.xml* is generated after restarting the server.
 {% asset_img atom-after.png %}
 
+## References
+* [所要時間3分!? Github PagesとHEXOで爆速ブログ構築してみよう！](https://liginc.co.jp/web/programming/server/104594)
+
