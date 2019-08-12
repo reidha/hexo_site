@@ -2,6 +2,8 @@
 title: Set up Hexo using Github Pages
 date: 2019-08-11 21:03:54
 tags:
+- Hexo
+- Github Pages
 categories:
 - Hexo
 ---
